@@ -1,4 +1,4 @@
-<img src="src/img/logo.png" alt="EC.on Sistemas" height="100" width="100"> 
+<img src="img/logo.png" alt="EC.on Sistemas" height="100" width="100"> 
 <?php
 
 /*
