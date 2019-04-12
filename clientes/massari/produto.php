@@ -1,5 +1,5 @@
 <?php
-define('HOME', 'http://143.107.231.229/econ/clientes/massari');
+define('HOME', 'http://143.107.231.227/econ/clientes/massari');
 ?><!DOCTYPE html>
 <html lang="en">
     <head>
@@ -83,47 +83,57 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
 
                         <div class="album py-4 detalhe-produto">
                             <div class="container">
-                                <h4 class="titulo">Título do produto selecionado</h4>
-                                <p>Breve descrição do produto</p>
+                                <h4 class="titulo">Corrente Antiderrapante</h4>
+                                <p>Correntes antiderrapante para pneus de veículos de vários tamanhos</p>
 
                                 <div class="row">
 
                                     <div class="col-sm-6 col-md-3">
                                         <div class="card mb-4 shadow-sm">
-                                                <img id="img1" src="<?php echo HOME;?>/img/img1.jpg" width="100%" data-zoom-image="<?php echo HOME;?>/img/img1.jpg" title="img1" alt="img1" />
+                                                <img id="img1" src="<?php echo HOME;?>/img/prod1.jpg" width="100%" data-zoom-image="<?php echo HOME;?>/img/prod1.jpg" title="prod1" alt="prod1" />
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-6">
                                                 <div class="card">
-                                                    <img class="img-zoom" src="<?php echo HOME;?>/img/img2.jpg" width="100%" data-zoom-image="<?php echo HOME;?>/img/img2.jpg" title="img2" alt="img2">
+                                                    <img class="img-zoom" src="<?php echo HOME;?>/img/prod1-min.jpg" width="100%" data-zoom-image="<?php echo HOME;?>/img/prod1-min.jpg" title="prod1-min" alt="prod1-min">
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-md-9">
                                         <h3>Descrição</h3>
-                                        <p></p><p>Funciona com 6 formas para 28 picolés.</p>
-                                        <p>Produção de 450/550 picolés horas.</p>
-                                        <p>Sistema de agitação com motor em cima! Maior vida útil e segurança!</p>
-                                        <p>Compressor de baixa pressão de evaporação.</p>
-                                        <p>Gás refrigerante R404A Dupont.</p>
-                                        <p>Nas tensões 220/380V. 50/60 HZ- Baixo consumo de energia 3.2 K.W.</p>
-                                        <p>Fabricado com tanque de fibra e chapa inox 304.</p><p></p>
+                                        <p></p><p>Fabricadas em aço BTC (Baixo Teor de Carbono).</p>
+                                        <p>Variedade de tamanhos.</p>
+                                        <p></p>
+                                        <p></p>
+                                        <p></p>
+                                        <p></p>
+                                        <label class="text-danger">OBS: 15% DE IPI (O CLIENTE DEVE ESCOLHER O TRANSPORTE)</label>
                                         <br>
                                         <h3>Tabela de medida</h3>
                                         <table class="table table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th>Largura</th>
-                                                    <th>Altura</th>
-                                                    <th>Comprimento</th>
+                                                    <th>Bitola do Pneu</th>
+                                                    <th>Código</th>
+                                                    <th>Veículos (entregue em pares)</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>790 mm</td>
-                                                    <td>950 mm</td>
-                                                    <td>700 mm</td>
+                                                    <td>560X15 RS</td>
+                                                    <td>80012</td>
+                                                    <td>VW. 1300 - 1500</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>590X14 RS</td>
+                                                    <td>80020</td>
+                                                    <td>VW. 1600-BRASILIA-OP</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>145X13 RS</td>
+                                                    <td>80039</td>
+                                                    <td>FIAT.147- UNO -PICK UP - PANORAMA-DOG</td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -149,10 +159,10 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                                     <div class="col-lg-2 col-md-4">
                                         <div class="card mb-4 shadow-sm">
                                             <div class="card-body">
-                                                <p class="card-text">Produto 1</p>
+                                                <p class="card-text">Correntes Antiderrapantes</p>
                                                 <a href="<?php echo HOME; ?>/produto.php?show=1" class="btn btn-primary">Ver mais detalhes</a>
                                             </div>
-                                            <img src="img/img1.jpg" class="card-img-bottom" />
+                                            <img src="img/prod1.jpg" class="card-img-bottom" />
                                         </div>
                                     </div>
                                     <div class="col-lg-2 col-md-4">
@@ -162,7 +172,7 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                                                     <p class="card-text">METALÚRGICA CIAR<br />
                                                         Marretas e ferramentas manuais</p>
                                                 </div>
-                                                <img src="img/img2.jpg" class="card-img-bottom" />
+                                                <img src="img/prod2.jpg" class="card-img-bottom" />
                                             </a>
                                         </div>
                                     </div>
@@ -173,7 +183,7 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                                                     <p class="card-text">COFERCAL<br />
                                                         Selaria e ferragens</p>
                                                 </div>
-                                                <img src="img/img3.jpg" class="card-img-bottom" />
+                                                <img src="img/prod3.jpg" class="card-img-bottom" />
                                             </a>
                                         </div>
                                     </div>
@@ -185,7 +195,7 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                                                     <p class="card-text">INDUSCOMEL<br />
                                                         Correntes de elos soldados, vitória e antiderrapantes</p>
                                                 </div>
-                                                <img src="img/img1.jpg" class="card-img-bottom" />
+                                                <img src="img/prod4.jpg" class="card-img-bottom" />
                                             </a>
                                         </div>
                                     </div>
@@ -196,7 +206,7 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                                                     <p class="card-text">METALÚRGICA CIAR<br />
                                                         Marretas e ferramentas manuais</p>
                                                 </div>
-                                                <img src="img/img2.jpg" class="card-img-bottom" />
+                                                <img src="img/prod5.jpg" class="card-img-bottom" />
                                             </a>
                                         </div>
                                     </div>
@@ -207,7 +217,7 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                                                     <p class="card-text">COFERCAL<br />
                                                         Selaria e ferragens</p>
                                                 </div>
-                                                <img src="img/img3.jpg" class="card-img-bottom" />
+                                                <img src="img/prod6.jpg" class="card-img-bottom" />
                                             </a>
                                         </div>
                                     </div>

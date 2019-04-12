@@ -1,5 +1,5 @@
 <?php
-define('HOME', 'http://143.107.231.229/econ/clientes/massari');
+define('HOME', 'http://143.107.231.227/econ/clientes/massari');
 ?><!DOCTYPE html>
 <html lang="en">
     <head>
@@ -40,7 +40,7 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
 
             <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
                 <div class="container bg-white">
-                    <a href="<?php echo HOME;?>" class="navbar-brand">
+                    <a href="<?php echo HOME; ?>" class="navbar-brand">
                         <img src="<?php echo HOME; ?>/img/logo.jpg" class="logotipo" />
                         <strong>MASSARI</strong>
                     </a>
@@ -51,16 +51,16 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
                     <div class="navbar-collapse collapse" id="navbarResponsive" style="">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link js-scroll-trigger" href="<?php echo HOME?>/#quemsomos">Quem somos</a>
+                                <a class="nav-link js-scroll-trigger" href="<?php echo HOME ?>/#quemsomos">Quem somos</a>
                             </li>
                             <!--<li class="nav-item">
                                 <a class="nav-link js-scroll-trigger" href="#features">Empresas</a>
                             </li>-->
                             <li class="nav-item">
-                                <a class="nav-link js-scroll-trigger" href="<?php echo HOME?>/produtos.php">Produtos</a>
+                                <a class="nav-link js-scroll-trigger" href="<?php echo HOME ?>/produtos.php">Produtos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link js-scroll-trigger" href="<?php echo HOME?>/#contact">Contato</a>
+                                <a class="nav-link js-scroll-trigger" href="<?php echo HOME ?>/#contact">Contato</a>
                             </li>
                         </ul>
                     </div>
@@ -73,53 +73,53 @@ define('HOME', 'http://143.107.231.229/econ/clientes/massari');
         <div class="container">
             <div class="row">
 
-                    <main role="main">
+                <main role="main">
 
-                        <div class="album py-4 bg-light">
-                            <div class="container">
-                                <h4 class="titulo">Produtos</h4>
-                                <p>Selecione abaixo qual empresa que deseja visualizar os produtos</p>
+                    <div class="album py-4 bg-light">
+                        <div class="container">
+                            <h4 class="titulo">Produtos</h4>
+                            <p>Selecione abaixo qual empresa que deseja visualizar os produtos</p>
 
-                                <div class="row">
-                                    <div class="col-md-4"   >
-                                        <div class="card mb-4 shadow-sm">
-                                            <a href="<?php echo HOME;?>/produto.php">
-                                                <div class="card-body">
-                                                    <p class="card-text">INDUSCOMEL<br />
+                            <div class="row">
+                                <div class="col-md-4"   >
+                                    <div class="card mb-4 shadow-sm">
+                                        <a href="<?php echo HOME; ?>/produto.php">
+                                            <div class="card-body">
+                                                <p class="card-text">INDUSCOMEL<br />
                                                     Correntes de elos soldados, vitória e antiderrapantes</p>
-                                                </div>
-                                                <img src="img/img1.jpg" class="card-img-bottom" />
-                                            </a>
-                                        </div>
+                                            </div>
+                                            <img src="img/img1.jpg" class="card-img-bottom" />
+                                        </a>
                                     </div>
-                                    <div class="col-md-4">
-                                        <div class="card mb-4 shadow-sm">
-                                            <a href="<?php echo HOME;?>/produto.php">
-                                                <div class="card-body">
-                                                    <p class="card-text">METALÚRGICA CIAR<br />
-                                                        Marretas e ferramentas manuais</p>
-                                                </div>
-                                                <img src="img/img2.jpg" class="card-img-bottom" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="card mb-4 shadow-sm">
-                                            <a href="<?php echo HOME;?>/produto.php">
-                                                <div class="card-body">
-                                                    <p class="card-text">COFERCAL<br />
-                                                    Selaria e ferragens</p>
-                                                </div>
-                                                <img src="img/img3.jpg" class="card-img-bottom" />
-                                            </a>
-                                        </div>
-                                    </div>
-
                                 </div>
+                                <div class="col-md-4">
+                                    <div class="card mb-4 shadow-sm">
+                                        <a href="<?php echo HOME; ?>/produto.php">
+                                            <div class="card-body">
+                                                <p class="card-text">COFERCAL<br />
+                                                    Selaria e ferragens</p>
+                                            </div>
+                                            <img src="img/img2.jpg" class="card-img-bottom" />
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="card mb-4 shadow-sm">
+                                        <a href="<?php echo HOME; ?>/produto.php">
+                                            <div class="card-body">
+                                                <p class="card-text">METALÚRGICA CIAR<br />
+                                                    Marretas e ferramentas manuais</p>
+                                            </div>
+                                            <img src="img/img3.jpg" class="card-img-bottom" />
+                                        </a>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
+                    </div>
 
-                    </main>
+                </main>
 
                 <footer class="text-muted">
                     <div class="container">
