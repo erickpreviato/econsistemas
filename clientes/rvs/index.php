@@ -8,10 +8,10 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>RVS Engenharia e Construção - Conchas</title>
+        <title>Engartech Engenharia e Construção - Conchas</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="RVS Engenharia e Construção" />
-        <meta name="keywords" content="RVS Engenharia, Ricardo Vinicius Sartori, Escavadeira, Terraplanagem, Escavação, Alicerce, Projetos" />
+        <meta name="description" content="Engartech Engenharia e Construção" />
+        <meta name="keywords" content="Engartech Engenharia, Ricardo Vinicius Sartori, Escavadeira, Terraplanagem, Escavação, Alicerce, Projetos" />
         <meta name="author" content="EC.on Sistemas" />
         
         <link rel="shortcut icon" href="images/favicon.png">
@@ -61,12 +61,12 @@
 
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
-                            <div id="gtco-logo"><a href="index.html"><img src="images/logo2.png" width="300" /></a></div>
+                            <div id="gtco-logo"><a href="index.html"><img src="images/logo4.png" width="300" /></a></div>
                         </div>
                         <div class="col-xs-8 text-right menu-1">
                             <ul>
                                 <li class="btn-cta"><a href="#servicos"><span>Serviços</span></a></li>
-                                <li class="btn-cta"><a href="#sobre"><span>Sobre a RVS</span></a></li>
+                                <li class="btn-cta"><a href="#sobre"><span>Sobre nós</span></a></li>
                                 <li class="btn-cta"><a href="#contato"><span>Contato</span></a></li>
                             </ul>	
                         </div>
@@ -83,10 +83,11 @@
 
 
                             <div class="row row-mt-15em">
-                                <div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
+                                <div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
                                     <span class="intro-text-small">Ricardo Vinícius Sartori <a href="#" target="_blank">CREA 5068984420</a></span>
                                     <h1 class="cursive-font">Engenheiro Civil</h1>	
                                 </div>
+                                <!--
                                 <div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
                                     <div class="form-wrap">
                                         <div class="tab">
@@ -105,7 +106,7 @@
                                                                     <option value="">Serviço 3</option>
                                                                     <option value="">Serviço 4</option>
                                                                     <option value="">Serviço 5</option>
-                                                                </select>-->
+                                                                </select>--
                                                             </div>
                                                         </div>
                                                         <div class="row form-group">
@@ -128,6 +129,8 @@
                                         </div>
                                     </div>
                                 </div>
+                                -->
+                                
                             </div>
 
 
@@ -193,9 +196,9 @@
                 <div class="gtco-container" id="sobre">
                     <div class="row">
                         <div class="col-md-12 text-center gtco-heading animate-box">
-                            <h2 class="cursive-font">Sobre a RVS</h2>
+                            <h2 class="cursive-font">Sobre a Engartech</h2>
                             <p>
-                                A empresa RVS Engenharia e Construção foi criada a partir da análise do mercado da construção civil. <br />
+                                A empresa Engartech Engenharia e Construção foi criada a partir da análise do mercado da construção civil. <br />
                                 O resultado desta análise indicou a necessidade de aliar a área de projeto e execução de obra, buscando uma sinergia entre teoria e prática. <br />
                                 Dessa forma, garantindo à você o melhor da engenharia, executando projetos fielmente como foram concebidos. <br />
                                 Paralelamente a isso, alcançamos uma sensível redução nos custos, adequação aos prazos, diminuição de erros, aumento da vida útil e segurança das estruturas. <br />
@@ -281,7 +284,7 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
                             <h2 class="cursive-font primary-color">Alguns números</h2>
-                            <p>Alguns números dos serviços realizados no ano de 2018</p>
+                            <p>Alguns números dos serviços realizados desde 2018</p>
                         </div>
                     </div>
 
@@ -331,9 +334,10 @@
                                 <ul class="gtco-quick-contact">
                                     <li><a href="#"><i class="icon-phone"></i> +55 14 98153-9052</a></li>
                                     <li><a href="#"><i class="icon-phone"></i> +55 14 99112-7985</a></li>
-                                    <li><a href="#"><i class="icon-mail2"></i> contato@engenhariarvs.com.br</a></li>
+                                    <li><a href="#"><i class="icon-mail2"></i> engartech@engartech.com.br</a></li>
                                 </ul>
                             </div>
+                            <!--
                             <div class="gtco-widget">
                                 <h3>Get Social</h3>
                                 <ul class="gtco-social-icons">
@@ -342,11 +346,12 @@
                                     <li><a href="#"><i class="icon-linkedin"></i></a></li>
                                 </ul>
                             </div>
+                            -->
                         </div>
 
                         <div class="col-md-12 text-center copyright">
                             <p><small class="block">&copy; 2018</small> 
-                            <small class="block">Desenvolvido por <a href="http://erickpreviato.com.br/" target="_blank">EC.on Sistemas</a></small></p>
+                            <small class="block">Desenvolvido por <a href="http://econsistemas.com.br/" target="_blank">EC.on Sistemas</a></small></p>
                         </div>
 
                     </div>
